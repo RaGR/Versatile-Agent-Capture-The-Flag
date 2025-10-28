@@ -2,6 +2,8 @@
 
 A sophisticated AI Agent framework that combines LLM capabilities with tool-based execution for complex task automation.
 
+![tasks done sample](./images/agents_functionality_01.png)
+
 ## 🚀 Features
 
 - **🛠️ Tool System**: Web scraping, file processing, text manipulation, calculations
